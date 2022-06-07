@@ -1,0 +1,136 @@
+body{
+  margin: 0;
+  font-family:  sans-serif;
+}
+
+h1 { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; }
+
+p {
+  color: white;
+  padding: 30px 0 0 0;
+  margin: 30px;
+
+  font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+h2{
+  color: white;
+  padding: 40px 0 0 0;
+  margin: 40px;
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+}
+
+.attribution{
+position: absolute;
+top: 600px;
+left: 600px;
+text-align: center;
+}
+.btn1 {
+  -webkit-border-radius: 26;
+  -moz-border-radius: 26;
+  border-radius: 26px;
+  font-family: Courier New;
+  color: #FFA500;
+  font-size: 20px;
+  background: #fffefc;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffa600 1px;
+  text-decoration: none;
+  margin: 40px 50px 30px 30px;
+}
+
+.btn1:hover {
+  background: #ffd580;
+  text-decoration: none;
+
+}
+
+.btn2 {
+  -webkit-border-radius: 26;
+  -moz-border-radius: 26;
+  border-radius: 26px;
+  font-family: Courier New;
+  color: #008b8b;
+  font-size: 20px;
+  background: #fffefc;
+  padding: 10px 20px 10px 20px;
+  border: solid #008b8b 1px;
+  text-decoration: none;
+  margin: 40px 50px 30px 30px;
+}
+
+.btn2:hover {
+  background: #e0ffff;
+  text-decoration: none;
+
+}
+
+.btn3 {
+  -webkit-border-radius: 26;
+  -moz-border-radius: 26;
+  border-radius: 26px;
+  font-family: Courier New;
+  color: #004443;
+  font-size: 20px;
+  background: #fffefc;
+  padding: 10px 20px 10px 20px;
+  border: solid #004443 1px;
+  text-decoration: none;
+  margin: 40px 50px 30px 30px;
+}
+
+.btn3:hover {
+  background: #e0ffff;
+  text-decoration: none;
+
+}
+
+.container{
+  background-color: #F9F9F9;
+
+
+}
+.luxury{
+  background-color: hsl(179, 100%, 13%);
+  width: 300px;
+  height: 500px;
+  position: absolute;
+  left: 900px;
+  top: 40px;
+  word-spacing: 3px;
+}
+.sedan{
+  background-color: hsl(31, 77%, 52%);
+  width: 300px;
+  height: 500px;
+  position: absolute;
+  left: 300px;
+  top: 40px;
+  word-spacing: 3px;
+  ;
+
+
+}
+
+.suv{
+  background-color: hsl(184, 100%, 22%);
+  width: 300px;
+  height: 500px;
+  position: absolute;
+  left: 600px;
+  top: 40px;
+  word-spacing: 3px;
+}
+.svg{
+  margin-top: 30px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.svg1{
+  margin: 40px;
+
+}
+.top{
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+}
